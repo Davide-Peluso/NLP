@@ -4,7 +4,7 @@ Original NLP course project by Davide Peluso, Giovanna Mariotto, Erik Baricevic,
 
 The project compares toxicity and sentiment in Twitch live chat and YouTube comments across 14 languages. It applies multilingual classifiers to a course corpus of about 4.2 million messages and compares the platforms using descriptive statistics, statistical tests, and a Bayesian logistic model that accounts for message length and language.
 
-- [Original course report](project_report_17.pdf) contains the methods, findings, and appendices.
+- [Refined course report](project_report_17.pdf) contains the methods, findings, and appendices.
 - [Bayesian model summary (CSV)](Code/6_Statistical_analysis/3_Hierararchical_toxicity_glmm/glm_lang_plat_len/summary.csv) and [the same summary in JSON](Code/6_Statistical_analysis/3_Hierararchical_toxicity_glmm/glm_lang_plat_len/summary.json) contain the archived coefficient estimates and diagnostics.
 - The descriptive notebook includes an archived chart of channel counts by language. The two statistical test notebooks include archived aggregate tables. These outputs come from the original course runs.
 
