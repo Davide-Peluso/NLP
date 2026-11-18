@@ -1,4 +1,4 @@
-# Liability-and-Latency in Multilingual Toxicity: Twitch Live Chat vs YouTube Comments
+# Classifier-Defined Toxicity in Twitch Live Chat and YouTube Comments
 
 Original NLP course project by Davide Peluso, Giovanna Mariotto, Erik Baricevic, Giacomo Gianoglio, and Nurassyl Bolat.
 
